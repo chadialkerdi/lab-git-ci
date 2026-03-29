@@ -257,3 +257,5 @@ All this configuration means that you can have a validation system that is as cl
 trigger test build
 
 trigger feature workflow
+
+trigger feature workflow final
